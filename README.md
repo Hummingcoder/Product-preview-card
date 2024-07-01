@@ -24,5 +24,5 @@ Users should be able to:
 
 ### Links
 
-- Frontend Mentor URL:[Click here](https://your-solution-url.com)
-- Live Site URL: [Click here](https://your-live-site-url.com)
+- Frontend Mentor URL:[Click here](https://www.frontendmentor.io/solutions/product-preview-card-b3ReWbJKgQ)
+- Live Site URL: [Click here](https://hummingcoder.github.io/Product-preview-card/)
